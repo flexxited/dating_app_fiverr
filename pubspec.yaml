@@ -9,6 +9,7 @@ dependencies:
   cupertino_icons: ^1.0.2
   get: 4.2.4
   hexcolor:
+  flutter_staggered_grid_view:
   flutter: 
     sdk: flutter
 
